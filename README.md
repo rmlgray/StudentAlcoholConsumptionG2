@@ -3,4 +3,5 @@ Machine learning project aimed at understanding how different lifestyle factors,
 
 ## Group Members
 **- Ron Gray**
+
 **- Noah Williams**
